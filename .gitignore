@@ -1,0 +1,15 @@
+﻿# Entorno virtual
+.venv/
+
+# Archivos descargados del dataset
+data/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Configuración local de Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales
+*.log
